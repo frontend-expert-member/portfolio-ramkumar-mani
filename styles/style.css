@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.border-img {
+    border: 3px solid #000;
+    height: 255px;
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 70px;
+}
+
+.profile-photo {
+    border-radius: 67px;
+}
+
+.highlights {
+    margin: 0 20px;
+    list-style-type: disclosure-closed;
+}
